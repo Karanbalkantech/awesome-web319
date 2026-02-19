@@ -421,6 +421,8 @@ A curated list of awesome Web3 resources, libraries, tools and more.
 - [Apillon](https://apillon.io/)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [Chartscout](https://chartscout.io) 
+
 
 ## Other
 
